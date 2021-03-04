@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/open.png</file>
+        <file>images/close.png</file>
+	 <file>Resources/icons/next.png</file>
+        <file>Resources/icons/prev.png</file>
+        <file>Resources/icons/icon-maximize-normal.png</file>
+        <file>Resources/icons/icon-restore-normal.png</file>
+        <file>Resources/icons/icon-maximize-hover.png</file>
+        <file>Resources/icons/icon-maximize-pressed.png</file>
+        <file>Resources/icons/icon-restore-hover.png</file>
+        <file>Resources/icons/icon-restore-pressed.png</file>
+        <file>Resources/icons/cursors/p1.cur</file>
+        <file>Resources/icons/cursors/p2.cur</file>
+        <file>Resources/icons/cursors/window_level.cur</file>
+    </qresource>
+</RCC>
